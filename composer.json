@@ -4,7 +4,7 @@
     "description": "Jalali calendar conversion to gregorian and vise versa.",
     "keywords": ["jalali calendar"],
     "homepage": "https://github.com/yasharrashedi/jalali-date",
-    "license": "GNU LGPL v3",
+    "license": "LGPL-3.0",
     "authors": [
         {
             "name": "Mehdi Bakhtiari",
