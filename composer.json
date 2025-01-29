@@ -1,5 +1,5 @@
 {
-    "name": "yasharrashedi/jalali-date",
+    "name": "yashar-rashedi/jalali-date",
     "type": "library",
     "description": "Jalali calendar conversion to gregorian and vise versa.",
     "keywords": ["jalali calendar"],
